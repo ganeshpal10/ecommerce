@@ -9,7 +9,7 @@ function App() {
       <Switch>
         <Route path="/accesories" component={Accesories}/>
         
-        <Route path="/" component={Home}  />
+        <Route path="/home" component={Home}  />
       </Switch>
     </BrowserRouter>
   );
