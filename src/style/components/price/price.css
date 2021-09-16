@@ -1,0 +1,21 @@
+.reviews{
+    margin-bottom: 20px;
+}
+
+.discounted-price{
+    color:  #FF4858;
+    letter-spacing: 0.4px;
+    margin-right: 8px;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: Montserrat;
+}
+
+.actual-price{
+    color: #C1C8CE;
+    letter-spacing: 0.4px;
+    text-decoration: line-through;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: Montserrat;
+}

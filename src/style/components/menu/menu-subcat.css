@@ -1,0 +1,74 @@
+.menu-container li:hover .mega-box{
+    top: 40px;
+    opacity: 1;
+    visibility: visible;
+    transition: all 0.3 ease;
+}
+
+
+.mega-box{
+    position: absolute;
+    top: 35px;
+    left: 0;
+    width: 100%;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-top: 3px solid #F1F3F4;
+    box-shadow: 0px 30px 30px #0000001A;
+    border-radius: 0px 0px 4px 4px;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease;
+}
+
+.mega-box .content{
+    padding: 25px 0px ;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+
+.content .row{
+    line-height: 35px;
+    display: block;
+    color: black;
+   height: 200px;
+
+}
+
+.content .row:not(:last-of-type){
+    width:235px
+}
+
+
+.row header{
+    font-size: 18px;
+    color: #C1C8CE;
+    font-weight: 400;
+    font-family: Montserrat;
+    cursor: initial;
+}
+
+.row .mega-links{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    flex-wrap: wrap;
+    font-size: 11px;
+    color: #262626;
+}
+
+.row .mega-links .sub-item:hover{
+    color: #2E90E5;
+}
+
+.row .mega-links li a{
+    text-decoration: none;
+    color: #262626;
+}
+.row .mega-links li a:hover{
+    color: #2E90E5;
+
+}

@@ -1,0 +1,33 @@
+.policy-container{
+    width: 75%;
+    margin: 0 auto;
+}
+
+.policy-container .card-container .card{
+    width: 30%;
+    border: none;
+    height: auto;
+}
+
+.policy-container .card-container .card:hover{
+    box-shadow: none;
+    border: none;
+}
+
+
+.card .ic-container{
+    font-size: 38px;
+    color: #FF6875;
+}
+
+.card header{
+    font-size: x-large;
+    margin: 18px 0;
+    font-family: Montserrat;
+}
+
+.lorem{
+    font-size: 14px;
+    color: #22262A;
+    text-align: justify;
+}

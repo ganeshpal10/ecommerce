@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+
+}
+
+
+.main-container{
+    justify-content: space-evenly;
+    font-family: Montserrat;
+    font-weight: 550;
+    font-size: 16px;
+    border-bottom: 2px solid #FAFAFB;
+}
+
+
+.money{
+    color: #26262685;
+}
+
+.drop-down{
+    width: 60%;
+}

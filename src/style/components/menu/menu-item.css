@@ -1,0 +1,43 @@
+nav{
+    
+    width: 100%;
+    z-index: 999;
+}
+
+.menu-container-1 {
+    padding: 0px 107px;
+    width: 66%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.menu-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem auto 0;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding: 0;
+    cursor: pointer;
+    
+}
+
+.menu-container .menu-item{
+    display: inline-flex;
+    line-height: 21px;
+    text-align: left;
+    transition: all  0.3 ease;
+    font-weight: 500;
+}
+
+
+.menu-item:hover{
+    color:#2E90E5
+      
+}
+
+
+
+
+

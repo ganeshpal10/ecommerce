@@ -1,0 +1,12 @@
+.icon{
+    font-family: Montserrat;
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 45px;
+    font-weight: 600;
+    color: #FF4252;
+}
+
+.icon span{
+    font-weight: 500;
+}
