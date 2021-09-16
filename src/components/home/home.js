@@ -8,7 +8,7 @@ import banner2 from './../../image/banner2.jpg'
 import Policy from "./../policy/policy";
 import FeaturedProduct from "./../fp/fp-carousel";
 import Footer from "./../footer/footer";
-
+import { Link } from "react-router-dom";
 
 const Home =()=>{
     return(
@@ -16,12 +16,14 @@ const Home =()=>{
             <Profile />
             <Icon />
             <MenuItem />
+            <Link to="/accesories">Hello</Link>
             <Banner banner={banner1}/>
             <BestSeller />
             <Banner banner={banner2}/>
             <Policy />
             <FeaturedProduct />
             <Footer />
+             
         </>
     )
 }
