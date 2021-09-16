@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.a5c99a46.chunk.css",
-    "main.js": "/home/static/js/main.1b3a8f99.chunk.js",
-    "main.js.map": "/home/static/js/main.1b3a8f99.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.a3a900d8.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.a3a900d8.js.map",
-    "static/js/2.a90e858e.chunk.js": "/home/static/js/2.a90e858e.chunk.js",
-    "static/js/2.a90e858e.chunk.js.map": "/home/static/js/2.a90e858e.chunk.js.map",
-    "index.html": "/home/index.html",
-    "static/css/main.a5c99a46.chunk.css.map": "/home/static/css/main.a5c99a46.chunk.css.map",
-    "static/js/2.a90e858e.chunk.js.LICENSE.txt": "/home/static/js/2.a90e858e.chunk.js.LICENSE.txt",
-    "static/media/banner1.c3ef220f.png": "/home/static/media/banner1.c3ef220f.png",
-    "static/media/banner2.145865bc.jpg": "/home/static/media/banner2.145865bc.jpg",
-    "static/media/ipad.2489c269.jpg": "/home/static/media/ipad.2489c269.jpg",
-    "static/media/iphone-se.af0db885.jpg": "/home/static/media/iphone-se.af0db885.jpg",
-    "static/media/macbookPro.602b5b22.jpeg": "/home/static/media/macbookPro.602b5b22.jpeg",
-    "static/media/mastercard.60e7bd01.png": "/home/static/media/mastercard.60e7bd01.png",
-    "static/media/watch.c1bd9717.jpg": "/home/static/media/watch.c1bd9717.jpg",
-    "static/media/westernunion.1d805441.png": "/home/static/media/westernunion.1d805441.png"
+    "main.css": "/ecommerce/static/css/main.a5c99a46.chunk.css",
+    "main.js": "/ecommerce/static/js/main.41e3747d.chunk.js",
+    "main.js.map": "/ecommerce/static/js/main.41e3747d.chunk.js.map",
+    "runtime-main.js": "/ecommerce/static/js/runtime-main.3f71d675.js",
+    "runtime-main.js.map": "/ecommerce/static/js/runtime-main.3f71d675.js.map",
+    "static/js/2.a90e858e.chunk.js": "/ecommerce/static/js/2.a90e858e.chunk.js",
+    "static/js/2.a90e858e.chunk.js.map": "/ecommerce/static/js/2.a90e858e.chunk.js.map",
+    "index.html": "/ecommerce/index.html",
+    "static/css/main.a5c99a46.chunk.css.map": "/ecommerce/static/css/main.a5c99a46.chunk.css.map",
+    "static/js/2.a90e858e.chunk.js.LICENSE.txt": "/ecommerce/static/js/2.a90e858e.chunk.js.LICENSE.txt",
+    "static/media/banner1.c3ef220f.png": "/ecommerce/static/media/banner1.c3ef220f.png",
+    "static/media/banner2.145865bc.jpg": "/ecommerce/static/media/banner2.145865bc.jpg",
+    "static/media/ipad.2489c269.jpg": "/ecommerce/static/media/ipad.2489c269.jpg",
+    "static/media/iphone-se.af0db885.jpg": "/ecommerce/static/media/iphone-se.af0db885.jpg",
+    "static/media/macbookPro.602b5b22.jpeg": "/ecommerce/static/media/macbookPro.602b5b22.jpeg",
+    "static/media/mastercard.60e7bd01.png": "/ecommerce/static/media/mastercard.60e7bd01.png",
+    "static/media/watch.c1bd9717.jpg": "/ecommerce/static/media/watch.c1bd9717.jpg",
+    "static/media/westernunion.1d805441.png": "/ecommerce/static/media/westernunion.1d805441.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3a900d8.js",
+    "static/js/runtime-main.3f71d675.js",
     "static/js/2.a90e858e.chunk.js",
     "static/css/main.a5c99a46.chunk.css",
-    "static/js/main.1b3a8f99.chunk.js"
+    "static/js/main.41e3747d.chunk.js"
   ]
 }
